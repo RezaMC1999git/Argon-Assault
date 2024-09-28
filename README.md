@@ -1,2 +1,2 @@
 # Argon-Assault
-my second major 3d game with PathFinder Algorythm, towder defence genre , and more knowledge about unity 3d world ,
+a simple 3d space shooter game to be familiar with projectiles, 3d colliders , custome camera systems and more, made with Udemy online course
